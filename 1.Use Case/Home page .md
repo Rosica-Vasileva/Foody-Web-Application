@@ -1,6 +1,5 @@
-## Test Case ID: 1-1
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-1
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify the Home page NavBar for not logged in users
 ## Steps:
@@ -15,9 +14,8 @@ Pass
 
 *** 
 
-## Test Case ID: 1-2
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-2
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify the Learn More button
 ## Steps:
@@ -30,9 +28,8 @@ Fail
 
 ***
 
-## Test Case ID: 1-3
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-3
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify the sections for promoting 
 ## Steps:
@@ -49,9 +46,8 @@ Pass
 
 ***
 
-## Test Case ID: 1-4
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-4
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify Sign Up button form sections for promoting 
 ## Steps:
@@ -65,9 +61,8 @@ Fail
 
 ***
 
-## Test Case ID: 1-5
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-5
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify Home page button  
 ## Steps:
@@ -80,9 +75,8 @@ Pass
 
 ***
 
-## Test Case ID: 1-6
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-6
+## Prerequisites: User is not logged in 
 ## Description/Title:
 Verify Sign Up button  
 ## Steps:
@@ -95,9 +89,22 @@ Pass
 
 ***
 
-## Test Case ID: 1-6
-## Prerequisites: 
-User is not logged in 
+# Test Case ID: 1-7
+## Prerequisites: User is not logged in 
+## Description/Title:
+Verify LOGIN button  
+## Steps:
+1.Open the application 
+2.Click on LOGIN button availble on the right part of the NavBar
+## Expected results:
+LOGIN is opened
+## Pass/Fail:
+Pass 
+
+***
+
+# Test Case ID: 1-8
+## Prerequisites: User is logged in 
 ## Description/Title:
 Verify LOGIN button  
 ## Steps:
