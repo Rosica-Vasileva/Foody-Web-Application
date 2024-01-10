@@ -62,3 +62,48 @@ Verify Sign Up button form sections for promoting
 User is navigated to Sign Up page
 ## Pass/Fail:
 Fail
+
+***
+
+## Test Case ID: 1-5
+## Prerequisites: 
+User is not logged in 
+## Description/Title:
+Verify Home page button  
+## Steps:
+1.Open the application 
+2.Click on Home page button availble on the left part of the NavBar
+## Expected results:
+Home page is opened
+## Pass/Fail:
+Pass 
+
+***
+
+## Test Case ID: 1-6
+## Prerequisites: 
+User is not logged in 
+## Description/Title:
+Verify Sign Up button  
+## Steps:
+1.Open the application 
+2.Click on Sign Up button availble on the right part of the NavBar
+## Expected results:
+Sign Up is opened
+## Pass/Fail:
+Pass 
+
+***
+
+## Test Case ID: 1-6
+## Prerequisites: 
+User is not logged in 
+## Description/Title:
+Verify LOGIN button  
+## Steps:
+1.Open the application 
+2.Click on LOGIN button availble on the right part of the NavBar
+## Expected results:
+LOGIN is opened
+## Pass/Fail:
+Pass 
